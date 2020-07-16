@@ -1,6 +1,9 @@
 # NumSliderForVuetify
 This is a component that allows you to specify values by sliding.
 
+# Screen shot
+![画面](https://github.com/Tomson-Sakata/NumSliderForVuetify/blob/images/screenshot_1.jpg)
+
 # Requirement
 * Vue 2.6.11
 * Vuetify 2.2.11
